@@ -1,4 +1,4 @@
-# DeepQuant20
+# DeepQuant
 Quantifying Safety Properties in Feed-forward Neural Networks
 
 # Datesets
