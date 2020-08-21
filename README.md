@@ -27,7 +27,7 @@ Folder "ACSC_XU_NN_Robustness" contains two robustness metrics methods for ACSC_
 
 Folder "Decision Reachability" contains ReLu and Tanh neural networks.
  
-Folder "MNIST_NN_Oscillation" contains the oscillation examples for MNIST.
+Folder "MNIST_NN_Uncertainty" contains the uncertainty examples for MNIST.
 
 # Sample Results
 
