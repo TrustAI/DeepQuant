@@ -1,5 +1,5 @@
 # DeepQuant
-Quantifying Safety Properties in Feed-forward Neural Networks
+Towards the Quantification of Safety Risks inDeep Neural Networks
 
 # Datesets
 
