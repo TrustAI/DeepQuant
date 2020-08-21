@@ -1,5 +1,5 @@
 # DeepQuant
-Towards the Quantification of Safety Risks inDeep Neural Networks
+Towards the Quantification of Safety Risks in Deep Neural Networks
 
 # Datesets
 
